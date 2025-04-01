@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\HamcrestTestCase::testKata":5,"Tests\\HamcrestTestCase::test_assert":5},"times":{"Tests\\HamcrestTestCase::testKata":0.011,"Tests\\HamcrestTestCase::test_assert":0.014,"Tests\\Task1Test::test_assert":0.01,"Tests\\StringCalculatorTest::test_assert":0.01}}
