@@ -30,7 +30,7 @@ class KataTwoTest extends TestCase
         ];
     }
 
-    private function kataTwo():KataTwo
+    private function kataTwo(): KataTwo
     {
         return new kataTwo();
     }
